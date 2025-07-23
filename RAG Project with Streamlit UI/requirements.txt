@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+groq
+langchain-groq
+langchain
+pypdf
+python-docx
+sentence-transformers
+faiss-cpu
+streamlit
+langchain-community
+docx2txt
